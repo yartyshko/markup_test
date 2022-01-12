@@ -435,6 +435,9 @@ body {
     min-width: 100%;
   }
 }
+.slider__holder-img img {
+  width: 100%;
+}
 .slider__images {
   position: absolute;
   width: 80%;
